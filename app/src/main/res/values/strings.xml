@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieCatalogueApp</string>
+    <string name="title">Title</string>
+    <string name="date">date</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TVshow</string>
+    <string name="duration">duration</string>
+    <string name="category">Category :</string>
+    <string name="categorys">category</string>
+    <string name="user_score">User Score :</string>
+    <string name="score">score</string>
+    <string name="description">Description</string>
+    <string name="long_description">long description</string>
+    <string name="released_date">Released Date</string>
+    <string name="moviedate">moviedate</string>
+    <string name="creator">Creator</string>
+    <string name="creatorname">creatorname</string>
+    <string name="todo">todo</string>
+    <string name="categoryss">category</string>
+    <string name="name">name</string>
+</resources>
